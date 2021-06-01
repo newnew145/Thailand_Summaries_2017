@@ -1,2 +1,2 @@
 # Thailand_Summaries_2017
-Exploration about thailand export in 2017
+Data Exploration about Thailand Export in 2017
